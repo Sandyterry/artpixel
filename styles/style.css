@@ -1,0 +1,25 @@
+div div{
+    display: flex;
+    height: 25px;
+    width: 25px;
+    border: 1px solid;
+}
+div{
+    display: flex;
+}
+
+.bleufoncé{
+    background-color: rgb(175, 161, 247);
+}
+
+.bleuclair{
+    background-color: rgb(209, 206, 247);
+}
+
+.bleuvert{
+    background-color: rgb(8, 71, 80);
+}
+
+.noir{
+    background-color: black;
+}
